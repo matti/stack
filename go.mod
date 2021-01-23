@@ -1,3 +1,3 @@
-module github.com/lossdev/stack
+module github.com/matti/stack
 
-go 1.14
+go 1.15
